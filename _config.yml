@@ -1,0 +1,8 @@
+title: Shashikiran Ganesh
+description: Scientist @ Physical Research Laboratory, Ahmedabad, India
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
