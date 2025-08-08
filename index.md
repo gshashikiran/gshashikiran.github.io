@@ -1,6 +1,6 @@
 ### Shashikiran's pages on GitHub.
 
-This is [Shashikiran](https://www.prl.res.in/~shashi/)'s pages on [GitHub](https://github.com/)
+These are [Shashikiran](https://www.prl.res.in/~shashi/)'s pages on [GitHub](https://github.com/)
 
 The idea is to maintain this site as my publicly accessible web presence summarizing and linking all the various sites online with my contributions.
 
@@ -28,3 +28,4 @@ You can @mention a GitHub username to generate a link to their profile. The resu
 
 ### Support or Contact
 Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
